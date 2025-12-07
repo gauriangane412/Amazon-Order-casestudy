@@ -46,4 +46,5 @@ Helps understand price sensitivity.
 •	Identify which channels perform best
 •	Analyse peak order times
 •	Support marketing & operational decisions
-<img width="468" height="659" alt="image" src="https://github.com/user-attachments/assets/dda998c8-289b-4fd2-9c1a-89cd0b2eba73" />
+<img width="468" height="659" alt="image" >
+
