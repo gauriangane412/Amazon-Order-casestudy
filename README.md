@@ -9,6 +9,8 @@
 This dashboard visualizes key patterns from the Amazon Orders Dataset. It helps understand customer behaviour, order trends, and sales channel performance.
  
 Dashboard Sections & Explanation
+
+
 1️⃣ Monthly Order Trend
 •	Displays total orders placed each month.
 •	Helps identify seasonality.
