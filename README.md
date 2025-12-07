@@ -1,4 +1,6 @@
 # Amazon-Order-casestudy
+
+<img width="452" height="201" alt="image" src="https://github.com/user-attachments/assets/64c9d969-eed5-4c6f-b331-0d50e81dee81" />
 “A complete Amazon Orders analysis project featuring data cleaning, exploratory insights, interactive dashboard visuals, and a structured data dictionary for easy understanding.”
 📊 Amazon Orders Dashboard – Description
  
@@ -46,5 +48,5 @@ Helps understand price sensitivity.
 •	Identify which channels perform best
 •	Analyse peak order times
 •	Support marketing & operational decisions
-<img width="468" height="659" alt="image" >
+
 
